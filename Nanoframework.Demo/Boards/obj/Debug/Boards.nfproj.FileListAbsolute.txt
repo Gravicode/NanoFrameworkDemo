@@ -1,0 +1,16 @@
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\Boards.dll
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\Boards.pdb
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\Boards.pe
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\Boards.pdbx
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\mscorlib.pe
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\mscorlib.pdbx
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\mscorlib.dll
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\mscorlib.pdb
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\bin\Debug\mscorlib.xml
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.nfprojAssemblyReference.cache
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.nfproj.CoreCompileInputs.cache
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.nfproj.CopyComplete
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.dll
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.pdb
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.pe
+C:\experiment\NanoFramework\Demo\Nanoframework.Demo\Boards\obj\Debug\Boards.pdbx
